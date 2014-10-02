@@ -1,0 +1,4 @@
+name: NAME
+description: DESC
+main: com.connorlinfoot.name.Main
+version: 1.0
